@@ -1,4 +1,4 @@
 # SKRLogin
 this is for git hooks  of SKRloginshjfks
 
-sjfs
+web hooks call jenkins
